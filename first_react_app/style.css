@@ -1,0 +1,21 @@
+body{
+
+}
+
+a{
+  cursor: pointer;
+}
+.right{
+  float: right;
+  display: block;
+}
+
+.list-group-item a{
+  margin-right: 8px;
+}
+
+
+.list-group-item input{
+  outline: none;
+  border-width: 0 0 1px 0;
+}
